@@ -1,5 +1,33 @@
+
+/* https://coolors.co/palette/2b2d42-8d99ae-edf2f4-ef233c-d90429 */
+
+
+body{
+    background-color: #2b2d42ff;
+    color: #8d99aeff;
+}
+
 img{
     width: 300px;
-    border: 5px solid green;
+    border: 5px solid #edf2f4ff;
     border-radius: 10px;
+}
+
+h1{
+    color: #edf2f4ff;
+}
+h2{
+    color: #edf2f4ff;
+}
+h3{
+    color: #edf2f4ff;
+}
+
+
+:root{
+    --space-cadet: #2b2d42ff;
+    --cool-gray: #8d99aeff;
+    --antiflash-white: #edf2f4ff;
+    --red-pantone: #ef233cff;
+    --fire-engine-red: #d90429ff;
 }
