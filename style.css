@@ -9,8 +9,13 @@ body{
 
 img{
     width: 300px;
-    border: 5px solid #edf2f4ff;
+    /* border: 5px solid #edf2f4ff; */
     border-radius: 10px;
+}
+
+.icone{
+    width: 24px;
+
 }
 
 h1{
