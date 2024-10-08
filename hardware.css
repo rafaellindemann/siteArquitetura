@@ -1,0 +1,9 @@
+div{
+    /* background-color: #8d99aeff; */
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+    min-height: 400px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(255,0,0,0.5);
+}
