@@ -1,0 +1,23 @@
+td{
+    /* border: 1px solid green; */
+    padding: 2px;
+    text-align: center;
+    background-color: #ff00ff;
+    border-radius: 6px;
+    color: #fff;
+}
+th{
+    padding: 2px;
+    text-align: center;
+    background-color: red;
+    border-radius: 6px;
+    color: #ffffff;
+}
+table{
+    background-color: #ffaaaa;
+    width: 100%;
+    /* padding: 25px; */
+}
+body{
+    background-color: #ccc;
+}
